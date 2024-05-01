@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Matt! </h1>
 <h3 align="center">Statistics student at Harvard working in AI</h3>
 
-- 🔭 I’m currently working on **Swiftscore**
+- 🔭 I’m currently working on **Swiftscore**, an AI startup that saves teachers time with automatic grading
 
-- 🌱 I’m currently learning **Fine-tuning LLMs, full-stack**
+- 🌱 I’m currently learning about **Fine-tuning LLMs, full-stack development**
 
 - 💬 Ask me about **Language Models**
 
