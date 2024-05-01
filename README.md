@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matt Krasnow</h1>
+<h1 align="center">Hi, I'm Matt </h1>
 <h3 align="center">Statistics student at Harvard working in AI</h3>
 
 - 🔭 I’m currently working on **Swiftscore**
