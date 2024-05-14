@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Language Models**
 
-- 📫 How to reach me **mkrasnow@college.harvard.edu**
+- 📫 How to reach me **mkrasnow [at] college [dot] harvard [dot] edu**
 
 - 📄 Learn about my experiences [https://docs.google.com/document/d/1Mc1o7cccTNuwDDiszw4tJP8GwcM7FCNd/edit](https://docs.google.com/document/d/1Mc1o7cccTNuwDDiszw4tJP8GwcM7FCNd/edit)
 
