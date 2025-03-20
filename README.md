@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Matt! </h1>
-<h3 align="center">Statistics student at Harvard working in AI</h3>
+<h3 align="center">Statistics and Mathematics student at Harvard working in EdTech</h3>
 
 - 🔭 I’m currently working on **Swiftscore**, an AI startup that saves teachers time with automatic grading
 
-- 🌱 I’m currently learning about **Fine-tuning LLMs, full-stack development**
+- 🌱 I’m currently learning about **Automated Prompt Engineering and Machine Learning**
 
-- 💬 Ask me about **Language Models**
+- 💬 Ask me about **AI's place in SWE**
 
-- 📫 How to reach me **mkrasnow [at] college [dot] harvard [dot] edu**
+- 📫 How to reach me **matt at swiftscore dot org**
 
 - 📄 Learn about my experiences [https://docs.google.com/document/d/1Mc1o7cccTNuwDDiszw4tJP8GwcM7FCNd/edit](https://docs.google.com/document/d/1Mc1o7cccTNuwDDiszw4tJP8GwcM7FCNd/edit)
 
